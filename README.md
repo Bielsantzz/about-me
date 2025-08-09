@@ -45,8 +45,6 @@
 
 <hr>
 
-<h2>Social medias</h2>
 
-<a href = "" alt= "insta logo" />  
 
 ###
