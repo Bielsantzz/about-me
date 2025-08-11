@@ -25,7 +25,14 @@
     <li>play much games online🎮</li>  
     <li>I really like to listen to music🎧<br>  </li>
     <li>I like to read sometimes (fiction, horror, and a bit of comedy)📚 </li>
-    
+
+
+###
+
+<div align="left"> 
+    <img src = "https://pa1.narvii.com/8340/0e819d7f10b79ec61165ea17f03c4225fd279f4fr1-400-360_hq.gif"/>
+
+</div>
 
   </p>
 
