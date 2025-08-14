@@ -25,6 +25,7 @@
     <li>play much games online🎮</li>  
     <li>I really like to listen to music🎧<br>  </li>
     <li>I like to read sometimes (fiction, horror, and a bit of comedy)📚 </li>
+    <li>and I also really like traveling 💼✈</li>
 
 
 ###
